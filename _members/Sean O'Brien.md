@@ -1,5 +1,5 @@
 ---
-name: Sean W. O\u2019Brien
+name: Sean W. O'Brien
 image: images/photo.jpg
 role: 
 group: 

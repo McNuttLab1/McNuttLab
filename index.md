@@ -1,7 +1,7 @@
 ---
 ---
 
-#Advancing scientific frontiers, fostering creativity, excellence, and mentorship for the scientists of tomorrow.
+Advancing scientific frontiers, fostering creativity, excellence, and mentorship for the scientists of tomorrow.
 
 
 

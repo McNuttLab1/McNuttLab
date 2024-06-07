@@ -2,9 +2,9 @@
 name: Lilly M. Karchalla
 image: images/photo.jpg
 role: Graduate Student
+group:
 Aliases:
   -Lalitha M. Karchalla
-group: 
 links:
   github:
   orcid: 0000-0003-3234-0053

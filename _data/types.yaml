@@ -8,11 +8,11 @@ pi:
 
 postdoc:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Fellow
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Graduate Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
