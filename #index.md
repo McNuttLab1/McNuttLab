@@ -59,7 +59,7 @@ cutting-edge studies ranging from molecular mechanisms to multi-organ responses.
 
 {% capture text %}
 
-Advance the next generation of scientists..
+Advance the next generation of scientists.
 
 {%
   include button.html
