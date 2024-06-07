@@ -1,7 +1,7 @@
 ---
 name: Travis Wentz
 image: images/photo.jpg
-role: Postdoctoral Fellow
+role: postdoc
 group: 
 links:
   github:

@@ -1,7 +1,7 @@
 ---
 name: Vy Vuong
 image: images/photo.jpg
-role: Graduate Student
+role: phd
 group: 
 links:
   github:
