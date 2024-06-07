@@ -24,18 +24,6 @@
     in respiratory function and acid-base balance, suggesting potential as a therapeutic
     option and laying groundwork for further development of aminopyridine derivatives.
   image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
 - id: doi:10.1124/jpet.123.001686
   title: 'Treatment of Sulfur Mustard Corneal Injury by Augmenting the DNA Damage
     Response (DDR): A Novel Approach'
