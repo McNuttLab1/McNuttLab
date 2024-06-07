@@ -13,7 +13,7 @@ Patrick McNutt is an associate professor at the Wake Forest Institute for Regene
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Cadherins and their connections: adhesion junctions have broader functions" style="rich" %}
 
 {% include section.html %}
 

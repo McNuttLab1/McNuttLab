@@ -1,7 +1,7 @@
 ---
 ---
 
-# CalebAguayoDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+#Advancing scientific frontiers, fostering creativity, excellence, and mentorship for the scientists of tomorrow.
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ Investigate molecular, cellular and functional mechanisms underlying toxicity and regeneration, with the goal of applying new knowledge to treat and cure human disease
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+cutting-edge studies ranging from molecular mechanisms to multi-organ responses.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Advance the next generation of scientists..
 
 {%
   include button.html
