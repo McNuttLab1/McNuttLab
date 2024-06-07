@@ -1,7 +1,7 @@
 ---
-name: Joe Doe
+name: Bill McClintic
 image: images/photo.jpg
-role:  Fellow
+role: Postdoctoral Fellow
 group: 
 links:
   github:

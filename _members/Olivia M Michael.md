@@ -1,7 +1,7 @@
 ---
-name: William T. McClintic
+name: Olivia M. Michael
 image: images/photo.jpg
-role: Postdoctoral Fellow
+role: Graduate Student
 group: 
 links:
   github:

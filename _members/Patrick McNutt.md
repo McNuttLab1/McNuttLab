@@ -2,13 +2,13 @@
 name: Patrick McNutt
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: 
 aliases:
   - 
   - 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid: 0000-0002-5703-4565
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

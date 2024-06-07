@@ -1,7 +1,9 @@
 ---
-name: William T. McClintic
+name: Lilly M. Karchalla
 image: images/photo.jpg
-role: Postdoctoral Fellow
+role: Graduate Student
+Aliases:
+  -Lalitha M. Karchalla
 group: 
 links:
   github:

@@ -1,5 +1,5 @@
 ---
-name: William T. McClintic
+name: Travis Wentz
 image: images/photo.jpg
 role: Postdoctoral Fellow
 group: 
