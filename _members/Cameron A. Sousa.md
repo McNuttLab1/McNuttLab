@@ -1,6 +1,6 @@
 ---
 name: Camie Sousa
-image: images/Team/camie.jpg
+image: images/Team/camie new.jpg
 role: 
 Aliases:
   -Cameron Sousa
