@@ -1,6 +1,6 @@
 ---
 name: Brieana Gregg
-image: images/photo.jpg
+image: images/Team/Brieana Gregg Photo.jpg
 role: 
 group: 
 links:
