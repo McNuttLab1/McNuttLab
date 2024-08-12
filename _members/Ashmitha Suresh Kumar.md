@@ -1,6 +1,6 @@
 ---
 name: Ashmitha Suresh Kumar
-image: images/photo.jpg
+image: Ashmitha.jpg
 role: 
 group: 
 links:
