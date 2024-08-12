@@ -1,6 +1,6 @@
 ---
 name: Sarfaraz Ahmad
-image: images/photo.jpg
+image: images/Team/Sarfaraz Ahmad.jpg
 role: 
 group: 
 links:

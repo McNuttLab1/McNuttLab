@@ -1,6 +1,6 @@
 ---
 name: Olivia M. Michael
-image: images/photo.jpg
+image: images/Team/Olivia Photo.jpg
 role: phd
 group: 
 links:

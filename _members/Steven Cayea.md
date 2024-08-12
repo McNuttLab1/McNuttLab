@@ -1,6 +1,6 @@
 ---
 name: Steven Cayea
-image: images/photo.jpg
+image: images/Team/Steven C Photo.jpg
 role: 
 group: 
 links:

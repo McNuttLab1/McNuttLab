@@ -1,6 +1,6 @@
 ---
 name: Catalina Gaviria
-image: images/photo.jpg
+image: images/Team/Catalina Photo.jpg
 role: postdoc
 group: 
 links:

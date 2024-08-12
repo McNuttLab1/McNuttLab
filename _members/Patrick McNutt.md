@@ -1,6 +1,6 @@
 ---
 name: Patrick McNutt
-image: images/photo.jpg
+image: images/Team/Patrick Michael McNutt.jpg
 role: pi
 affiliation: 
 aliases:

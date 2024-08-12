@@ -1,6 +1,6 @@
 ---
 name: Bill McClintic
-image: images/photo.jpg
+image: images/Team/Bill photo.jpg
 role: postdoc
 group: 
 links:
