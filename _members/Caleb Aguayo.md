@@ -1,6 +1,6 @@
 ---
 name: Caleb Aguayo
-image: images/Team/CA Headshot.png
+image: images/Team/CA Headshot.jpg
 role: phd
 group: 
 links:
