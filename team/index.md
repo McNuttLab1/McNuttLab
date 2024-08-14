@@ -12,11 +12,10 @@ Our lab consists of a dynamic and collaborative group of researchers who are dee
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: technician, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -38,8 +37,8 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: technician, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
@@ -47,11 +46,9 @@ We collaborate with an array of exceptional teams from across the globe and cont
 ## Funding
 
 {% capture content %}
-[![Gordon and Betty Moore Foundation](/images/team/gordon-and-betty-moore-foundation.png)](https://www.moore.org/)
+[![Department of Defense](images/Funding/DoD-Logo-Stacked.png)](https://www.defense.gov/)
 
-[![National Cancer Institute](/images/team/national-cancer-institute.png)](https://www.cancer.gov/)
-
-[![Alex's Lemonade Stand Foundation for Childhood Cancer](/images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png)](https://www.alexslemonade.org/)
+[![National Institutes of Health](images/Funding/2012-logo.png)](https://www.nih.gov/)
 
 {% capture content %}
 

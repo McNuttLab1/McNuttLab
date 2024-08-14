@@ -1,7 +1,7 @@
 ---
 name: Brieana Gregg
 image: images/Team/Brieana Gregg Photo.jpg
-role: 
+role: technician
 group: 
 links:
   linkedin: brieana-g

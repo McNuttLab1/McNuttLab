@@ -1,7 +1,7 @@
 ---
 name: Ashmitha Suresh Kumar
 image: images/Team/Ashmitha.jpg
-role: 
+role: phd
 group: 
 links:
   orcid: 0000-0002-6374-1530

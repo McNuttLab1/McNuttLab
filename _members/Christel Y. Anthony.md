@@ -1,7 +1,7 @@
 ---
 name: Christel Y. Anthony
 image: images/photo.jpg
-role: 
+role: technician
 group: 
 links: 
 ---

@@ -1,7 +1,7 @@
 ---
 name: Camie Sousa
 image: images/Team/camie new.jpg
-role: 
+role: technician
 Aliases:
   -Cameron Sousa
 group: 

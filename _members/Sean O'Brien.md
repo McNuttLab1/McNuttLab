@@ -1,7 +1,7 @@
 ---
 name: Sean W. O'Brien
 image: images/photo.jpg
-role: 
+role: technician
 group: 
 links:
   orcid: 0000-0002-4968-7232

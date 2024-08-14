@@ -1,7 +1,7 @@
 ---
 name: Steven Cayea
 image: images/Team/Steven C Photo.png
-role: 
+role: undergrad
 group: 
 links:
 ---
