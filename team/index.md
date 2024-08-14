@@ -46,9 +46,23 @@ We collaborate with an array of exceptional teams from across the globe and cont
 ## Funding
 
 {% capture content %}
-[![Department of Defense](/images/Funding/DoD-Logo-Stacked.png)](https://www.defense.gov/)
+[![Gordon and Betty Moore Foundation](/images/Funding/2012-logo.png)](https://www.moore.org/)
 
-[National Institutes of Health](/images/Funding/2012-logo.png)(https://www.nih.gov/)
+[![National Cancer Institute](/images/Funding/DoD-Logo-Stacked.png)](https://www.cancer.gov/)
+
+[![Alex's Lemonade Stand Foundation for Childhood Cancer](/images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png)](https://www.alexslemonade.org/)
+
+[![Chan Zuckerberg Initiative](/images/team/chan-zuckerberg-initiative.png)](https://chanzuckerberg.com/)
+
+[![Cystic Fibrosis Foundation](/images/team/cystic-fibrosis-foundation.png)](https://www.cff.org/)
+
+[![Alfred P. Sloan Foundation](/images/team/alfred-p-sloan-foundation.png)](https://sloan.org/)
+
+[![National Human Genome Research Institute](/images/team/national-human-genome-research-institute.png)](https://www.genome.gov/)
+
+[![National Heart, Lung, and Blood Institute](/images/team/national-heart-lung-and-blood-institute.png)](https://www.nhlbi.nih.gov/)
+
+[![National Institute of Neurological Disorders and Stroke](/images/team/national-institute-of-neurological-disorders-and-stroke.png)](https://www.ninds.nih.gov/)
 
 {% endcapture %}
 

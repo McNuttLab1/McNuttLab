@@ -2,7 +2,7 @@
 name: Cooper Bay
 image: images/Team/cooper.jpg
 role: undergrad
-group: 
+group: alum
 links: 
 ---
 

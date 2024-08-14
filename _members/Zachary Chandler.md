@@ -2,7 +2,7 @@
 name: Zachary Chandler
 image: images/Team/zach.jpg
 role: technician
-group: 
+group: alum
 links: 
 ---
 
