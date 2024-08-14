@@ -2,7 +2,7 @@
 title: New strategy to fight botulinum toxin - expert available
 author: EurekAlert!
 date: 2021-01-06
-image: https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/awards-honors-and-media-coverage/2022/new-research-shows-drug-used-to-treat-neuromuscular-weakness-could-counter-botulism
+image: images/Posts/800px-Botulinum_toxin_3BTA.png
 link: https://www.eurekalert.org/news-releases/664935
 ---
 
