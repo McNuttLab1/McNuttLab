@@ -42,3 +42,5 @@ We are always excited to explore new opportunities for collaboration and welcome
   caption=""
 %}
 
+{% endcapture %}
+
