@@ -1,8 +1,12 @@
 ---
-title: Example post 3
-image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+title: Trojan Horse Antidotes Designed to Neutralize Lethal Botulinum Toxin
+author: Genetic Engineering & Biotechnology News
+date: 2021-01-11
+image: https://www.genengnews.com/wp-content/uploads/2021/01/lead-image-e1681832925603.png
+link: https://www.genengnews.com/topics/drug-discovery/trojan-horse-antidotes-designed-to-neutralize-lethal-botulinum-toxin/
+tags:
+  - biology
+  - medicine
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Two research groups have designed chimeric fusion proteins that constitute a new “trojan horse” approach to neutralize lethal botulinum toxins.
