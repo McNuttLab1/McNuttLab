@@ -30,7 +30,7 @@ We are always excited to explore new opportunities for collaboration and welcome
 
         position: relative;
 
-        padding-bottom: 75%; 
+        padding-bottom: 50%; 
 
         height: 0;
 
