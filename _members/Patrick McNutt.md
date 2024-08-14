@@ -5,7 +5,7 @@ role: pi
 affiliation: 
 aliases:
 links:
-  google scholar: ceRIHocAAAAJ&hl
+  google-scholar: ceRIHocAAAAJ&hl
   orcid: 0000-0002-5703-4565
 ---
 
