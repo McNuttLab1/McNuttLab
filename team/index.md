@@ -46,9 +46,9 @@ We collaborate with an array of exceptional teams from across the globe and cont
 ## Funding
 
 {% capture content %}
-[![Department of Defense](images/Funding/DoD-Logo-Stacked.png)](https://www.defense.gov/)
+[![Department of Defense](/images/Funding/DoD-Logo-Stacked.png)](https://www.defense.gov/)
 
-[![National Institutes of Health](images/Funding/2012-logo.png)](https://www.nih.gov/)
+[![National Institutes of Health](/images/Funding/2012-logo.png)](https://www.nih.gov/)
 
 {% endcapture %}
 
