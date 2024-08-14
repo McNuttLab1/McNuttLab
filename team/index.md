@@ -50,8 +50,6 @@ We collaborate with an array of exceptional teams from across the globe and cont
 
 [![National Institutes of Health](images/Funding/2012-logo.png)](https://www.nih.gov/)
 
-{% capture content %}
-
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
