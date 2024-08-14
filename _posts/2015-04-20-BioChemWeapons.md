@@ -7,6 +7,7 @@ link: https://cen.acs.org/articles/93/i16/Patrick-McNutt-Talks-Chemical-Weapons.
 tags:
   - biology
   - medicine
+  - botulism
 ---
 
 Army scientist discusses medical research being carried out to understand and protect against warfare agents
