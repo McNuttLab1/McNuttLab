@@ -24,7 +24,11 @@ We are always excited to explore new opportunities for collaboration and welcome
 
 {% include section.html %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12895.782959215436!2d-80.2399591!3d36.0948107!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8853ae5bad1c264b%3A0x698389952d5975bf!2sWake%20Forest%20Institute%20for%20Regenerative%20Medicine!5e0!3m2!1sen!2sus!4v1723663970826!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="google-maps">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12895.782959215436!2d-80.2399591!3d36.0948107!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8853ae5bad1c264b%3A0x698389952d5975bf!2sWake%20Forest%20Institute%20for%20Regenerative%20Medicine!5e0!3m2!1sen!2sus!4v1723662214859!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
 
 {% capture col1 %}
 
