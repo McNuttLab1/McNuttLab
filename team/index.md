@@ -50,19 +50,27 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {%
   include figure.html
   image="images/Funding/NIH_Master.png"
+  width="100%"
+  height="100%"
+  link=
 %}
 {%
   include figure.html
   image="images/Funding/DoD-Logo-Stacked.png"
+  width="100%"
+  link=
 %}
 {%
   include figure.html
   image="images/Funding/DTRA-logo-FINAL-white.png"
+  width="100%"
+  link=
 %}
 {%
   include figure.html
   image="images/Funding/Allergan-Logo.png"
-  link="https://www.allerganaesthetics.com/"
+  width="100%"
+  link=
 %}
 
 {% endcapture %}
