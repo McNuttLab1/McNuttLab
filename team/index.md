@@ -58,3 +58,5 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% include section.html %}
