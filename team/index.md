@@ -62,7 +62,7 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {%
   include figure.html
   image="images/Funding/Allergan-Logo.png"
-  href="https://www.allerganaesthetics.com/"
+  link="https://www.allerganaesthetics.com/"
 %}
 
 {% endcapture %}
