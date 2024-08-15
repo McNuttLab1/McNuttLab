@@ -64,8 +64,6 @@ We collaborate with an array of exceptional teams from across the globe and cont
   include figure.html
   image="images/Funding/2012-logo.jpg"
   width="20%"
-%}
-{%
   include figure.html
   image="images/Funding/DoD-Logo-Stacked.jpg"
   width="20%"
