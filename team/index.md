@@ -46,14 +46,27 @@ We collaborate with an array of exceptional teams from across the globe and cont
 ## Funding
 
 {% capture content %}
-[![National Institutes of Health](../images/Funding/NIH_Master.png){:width="150%" padding="100px"}](https://www.nih.gov/)
 
-[![The Department of Defense](../images/Funding/DoD-Logo-Stacked.png){:width="150%" padding="100px"}](https://www.defense.gov/)
-
-[![Defense Threat Reduction Agency](../images/Funding/DTRA-logo-FINAL-white.png){:height="100%" width="100%" padding="100px"}](https://www.dtra.mil/)
-
-[![Allergan Aesthetics](../images/Funding/Allergan-Logo.png){:padding="500px"}](https://www.allerganaesthetics.com/)
-
+{%
+  include figure.html
+  image="images/Funding/NIH_Master.png"
+  width="100%"
+%}
+{%
+  include figure.html
+  image="images/Funding/DoD-Logo-Stacked.png"
+  width="100%"
+%}
+{%
+  include figure.html
+  image="images/Funding/DTRA-logo-FINAL-white.png"
+  width="100%"
+%}
+{%
+  include figure.html
+  image="images/Funding/Allergan-Logo.png"
+  width="100%"
+%}
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
