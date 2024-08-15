@@ -50,9 +50,9 @@ We collaborate with an array of exceptional teams from across the globe and cont
 
 [![The Department of Defense](../images/Funding/DoD-Logo-Stacked.png){:width="150%" padding:100px}](https://www.defense.gov/)
 
-[![Defense Threat Reduction Agency](../images/Funding/DTRA-logo-FINAL-white.png){:height="100%" width="100%"}](https://www.dtra.mil/)
+[![Defense Threat Reduction Agency](../images/Funding/DTRA-logo-FINAL-white.png){:height="100%" width="100%" padding:100px}](https://www.dtra.mil/)
 
-[![Allergan Aesthetics](../images/Funding/Allergan-Logo.png){:width="200%"}](https://www.allerganaesthetics.com/)
+[![Allergan Aesthetics](../images/Funding/Allergan-Logo.png){padding:500px}](https://www.allerganaesthetics.com/)
 
 {% endcapture %}
 
