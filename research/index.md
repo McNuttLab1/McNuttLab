@@ -9,6 +9,19 @@ nav:
 
 Patrick McNutt is an associate professor at the Wake Forest Institute for Regenerative Medicine. Patrick does research in Neuroscience, Molecular Biology and Cell Biology.
 
+{%
+  include button.html
+  icon="fa-solid fa-book-open"
+  text="More on PubMed"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=McNutt+P&cauthor_id=36731603"
+%}
+{%
+  include button.html
+  icon="fa-brands fa-google"
+  text="More on Google Scholar"
+  link="https://scholar.google.com/citations?user=ceRIHocAAAAJ&hl=en"
+%}
+
 {% include section.html %}
 
 ## Highlighted
