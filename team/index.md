@@ -46,9 +46,9 @@ We collaborate with an array of exceptional teams from across the globe and cont
 ## Funding
 
 {% capture content %}
-[![National Institutes of Health](../images/Funding/NIH_Master.png){:width="100%"}](https://www.nih.gov/)
+[![National Institutes of Health](../images/Funding/NIH_Master.png){:width="20%"}](https://www.nih.gov/)
 
-[![The Department of Defense](../images/Funding/DoD-Seal.png){:width="100%"}](https://www.defense.gov/)
+[![The Department of Defense](../images/Funding/DoD-Logo-Stacked.png){:width="100%"}](https://www.defense.gov/)
 
 [![Defense Threat Reduction Agency](../images/Funding/DTRA-logo-FINAL-white.png){:width="100%"}](https://www.dtra.mil/)
 
