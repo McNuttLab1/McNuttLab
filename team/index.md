@@ -60,3 +60,10 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {% include grid.html style="square" content=content %}
 
 {% include section.html %}
+
+{%
+  include figure.html
+  image="images/photo1.jpg"
+  caption="The Greene Lab in their natural Philadelphia habitat"
+  width="100%"
+%}
