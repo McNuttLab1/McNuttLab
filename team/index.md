@@ -50,7 +50,7 @@ We collaborate with an array of exceptional teams from across the globe and cont
 {%
   include figure.html
   image="images/Funding/NIH_Master.png"
-  width="100%"
+  width="150%"
   height="100%"
   link= "https://www.nih.gov/"
 %}
