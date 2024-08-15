@@ -47,7 +47,7 @@ We collaborate with an array of exceptional teams from across the globe and cont
 
 {% capture content %}
 
-<p><a href="https://www.nih.gov/"><img src= "images\photo.jpg" alt="National Institutes of Health"></a></p>
+<p><a href="https://www.nih.gov/"><img src= "images/photo.jpg" alt="National Institutes of Health"></a></p>
 
 <p><a href="https://www.defense.gov/"><img src="images/Funding/DoD-Logo-Stacked.jpg" alt="The Department of Defense"></a></p>
 
