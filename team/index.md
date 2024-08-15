@@ -61,6 +61,7 @@ We collaborate with an array of exceptional teams from across the globe and cont
   include figure.html
   image="images/Funding/DTRA-logo-FINAL-white.png"
   width="100%"
+  style="float:left;"
 %}
 {%
   include figure.html
