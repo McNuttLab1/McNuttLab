@@ -66,12 +66,6 @@ We collaborate with an array of exceptional teams from across the globe and cont
   width="100%"
   link= "https://www.dtra.mil/"
 %}
-{%
-  include figure.html
-  image="images/Funding/Allergan-Logo.png"
-  width="100%"
-  link="https://www.allerganaesthetics.com/"
-%}
 
 {% endcapture %}
 
