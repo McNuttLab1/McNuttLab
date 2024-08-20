@@ -49,14 +49,14 @@ We collaborate with an array of exceptional teams from across the globe and cont
 
 {%
   include figure.html
-  image="images/Funding/NIH_Master.png"
+  image="images/Funding/nih logo.png"
   width="100%"
   height="100%"
   link= "https://www.nih.gov/"
 %}
 {%
   include figure.html
-  image="images/Funding/DoD-Logo-Stacked.png"
+  image="images/Funding/DoD-Seal.png"
   width="100%"
   link= "https://www.defense.gov/"
 %}
