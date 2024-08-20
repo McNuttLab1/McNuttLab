@@ -14,8 +14,9 @@
   date: '2024-07-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39000579
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/ijms/ijms-25-07472/article_deploy/html/images/ijms-25-07472-g001-550.jpg
 - id: pubmed:38957806
   title: A comparative analysis of RNA-Seq and NanoString technologies in deciphering
     viral infection response in upper airway lung organoids.
@@ -31,8 +32,9 @@
   date: '2024-06-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38957806
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/1327984/fgene-15-1327984-HTML/image_m/fgene-15-1327984-g001.jpg
 - id: pubmed:38655085
   title: Analysis of gene expression dynamics and differential expression in viral
     infections using generalized linear models and quasi-likelihood methods.
@@ -84,8 +86,13 @@
   date: '2024-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37977816
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  description: A study on the effects of aminopyridines, particularly 3,4-diaminopyridine
+    (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements
+    in respiratory function and acid-base balance, suggesting potential as a therapeutic
+    option and laying groundwork for further development of aminopyridine derivatives.
+  image: https://jpet.aspetjournals.org/content/jpet/388/2/637/F1.large.jpg
 - id: pubmed:37650071
   title: Neuromuscular recovery from botulism involves multiple forms of compensatory
     plasticity.
@@ -187,8 +194,13 @@
   date: '2022-06-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35659174
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  description: The molecule 3,4-DAP is the first small molecule to reverse systemic
+    paralysis and promote survival in animal models of botulism, thereby meeting a
+    critical treatment need that is not addressed by post-exposure prophylaxis with
+    conventional antitoxin.
+  image: ..\images\Posts\10020_2022_487_Fig2_HTML.jpg
 - id: pubmed:34122121
   title: 'Editorial: Venoms, Animal and Microbial Toxins.'
   authors:
@@ -228,8 +240,12 @@
   date: '2021-01-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33497768
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  description: These results provide novel insight into long-term corneal pathophysiological
+    responses to acute toxicity and identify exposure conditions suitable for therapeutic
+    testing.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378427421000254-gr2.jpg
 - id: pubmed:33408188
   title: Neuronal delivery of antibodies has therapeutic effects in animal models
     of botulism.
@@ -700,95 +716,3 @@
   term: McNutt PM[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: doi:10.1124/jpet.123.001773
-  title: Aminopyridines Restore Ventilation and Reverse Respiratory Acidosis at Late
-    Stages of Botulism in Mice
-  authors:
-  - William T. McClintic
-  - Zachary D. Chandler
-  - Lalitha M. Karchalla
-  - Celinia A. Ondeck
-  - "Sean W. O\u2019Brien"
-  - Charity J. Campbell
-  - Alan R. Jacobson
-  - Patrick M. McNutt
-  publisher: Journal of Pharmacology and Experimental Therapeutics
-  date: '2023-11-17'
-  link: https://doi.org/gtxvz7
-  description: A study on the effects of aminopyridines, particularly 3,4-diaminopyridine
-    (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements
-    in respiratory function and acid-base balance, suggesting potential as a therapeutic
-    option and laying groundwork for further development of aminopyridine derivatives.
-  image: https://jpet.aspetjournals.org/content/jpet/388/2/637/F1.large.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s10020-022-00487-4
-  title: Antidotal treatment of botulism in rats by continuous infusion with 3,4-diaminopyridine
-  authors:
-  - James B. Machamer
-  - Edwin J. Vazquez-Cintron
-  - "Sean W. O\u2019Brien"
-  - Kyle E. Kelly
-  - Amber C. Altvater
-  - Kathleen T. Pagarigan
-  - Parker B. Dubee
-  - Celinia A. Ondeck
-  - Patrick M. McNutt
-  publisher: Molecular Medicine
-  date: '2022-06-03'
-  link: https://doi.org/gqjwhp
-  description: The molecule 3,4-DAP is the first small molecule to reverse systemic
-    paralysis and promote survival in animal models of botulism, thereby meeting a
-    critical treatment need that is not addressed by post-exposure prophylaxis with
-    conventional antitoxin.
-  image: ..\images\Posts\10020_2022_487_Fig2_HTML.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.toxlet.2021.01.016
-  title: Dose-dependent emergence of acute and recurrent corneal lesions in sulfur
-    mustard-exposed rabbit eyes
-  authors:
-  - Patrick M. McNutt
-  - Kyle E.M. Kelly
-  - Amber C. Altvater
-  - Marian R. Nelson
-  - Megan E. Lyman
-  - "Sean O\u2019Brien"
-  - Matthieu T. Conroy
-  - Celinia A. Ondeck
-  - Skylar M.L. Bodt
-  - Sarah E. Wolfe
-  - Susan M. Schulz
-  - Denise M. Kniffin
-  - Nicole B. Hall
-  - Tracey A. Hamilton
-  publisher: Toxicology Letters
-  date: '2021-05-01'
-  link: https://doi.org/gtxv2d
-  description: These results provide novel insight into long-term corneal pathophysiological
-    responses to acute toxicity and identify exposure conditions suitable for therapeutic
-    testing.
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378427421000254-gr2.jpg
-  plugin: sources.py
-  file: sources.yaml
-- PMCID: PMC11242356
-  image: https://www.mdpi.com/ijms/ijms-25-07472/article_deploy/html/images/ijms-25-07472-g001-550.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fgene.2024.1327984
-  title: A comparative analysis of RNA-Seq and NanoString technologies in deciphering
-    viral infection response in upper airway lung organoids
-  authors:
-  - Mostafa Rezapour
-  - Stephen J. Walker
-  - David A. Ornelles
-  - Muhammad Khalid Khan Niazi
-  - Patrick M. McNutt
-  - Anthony Atala
-  - Metin Nafi Gurcan
-  publisher: Frontiers in Genetics
-  date: '2024-06-18'
-  link: https://doi.org/gt7gjn
-  image: https://www.frontiersin.org/files/Articles/1327984/fgene-15-1327984-HTML/image_m/fgene-15-1327984-g001.jpg
-  plugin: sources.py
-  file: sources.yaml
