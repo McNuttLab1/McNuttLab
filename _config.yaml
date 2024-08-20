@@ -1,19 +1,17 @@
 # site properties and page defaults
 title: McNutt Lab Website
 subtitle: 
-description: Explore the innovative research of a distinguished scientist and educator dedicated to unraveling the mysteries of toxicity and regeneration. Delve into cutting-edge studies ranging from molecular mechanisms to multi-organ responses, aimed at developing transformative therapies for human diseases. Join us in advancing scientific frontiers, fostering creativity, excellence, and mentorship for the scientists of tomorrow.
+description: Explore the innovative research of a distinguished scientist and educator dedicated to unraveling the mysteries of toxicity and regeneration. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: 
+  email: pmcnutt@wakehealth.edu
   orcid: 0000-0002-5703-4565
   google-scholar: ceRIHocAAAAJ&hl
-  github: 
   twitter: patrickmcnutt
-  youtube: 
 
 ### jekyll settings
 
