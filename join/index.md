@@ -10,7 +10,7 @@ title: Join the Team
 
 ### Postdoctoral Researchers
 
-We are excited to announce that we are currently welcoming applications for new postdoctoral fellows to join our team. We invite qualified candidates to submit their resumes and cover letters for consideration. Please send your application materials directly to [Patrick McNutt](https://profiles.wakehealth.edu/display/person/pmcnutt/). We look forward to reviewing your application and exploring the potential for collaboration
+We are excited to announce that we are currently welcoming applications for new postdoctoral fellows to join our team. We invite qualified candidates to submit their resumes and cover letters for consideration. Please send your application materials directly to [Patrick McNutt]( {%https://profiles.wakehealth.edu/display/person/pmcnutt/%} ). We look forward to reviewing your application and exploring the potential for collaboration
 
 ### Graduate Students
 
