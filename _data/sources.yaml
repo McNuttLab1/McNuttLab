@@ -1,17 +1,17 @@
-- id: doi:10.1124/jpet.123.001773
+- id: pubmed:37977816
   description: A study on the effects of aminopyridines, particularly 3,4-diaminopyridine (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements in respiratory function and acid-base balance, suggesting potential as a therapeutic option and laying groundwork for further development of aminopyridine derivatives.
   image: https://jpet.aspetjournals.org/content/jpet/388/2/637/F1.large.jpg
   
-- id: doi:10.1186/s10020-022-00487-4
+- id: pubmed:35659174
   description: The molecule 3,4-DAP is the first small molecule to reverse systemic paralysis and promote survival in animal models of botulism, thereby meeting a critical treatment need that is not addressed by post-exposure prophylaxis with conventional antitoxin. 
   image: ..\images\Posts\10020_2022_487_Fig2_HTML.jpg
 
-- id: doi:10.1016/j.toxlet.2021.01.016
+- id:  pubmed:33497768
   description: These results provide novel insight into long-term corneal pathophysiological responses to acute toxicity and identify exposure conditions suitable for therapeutic testing.
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378427421000254-gr2.jpg
 
-- PMCID: PMC11242356
+- id: pubmed:39000579
   image: https://www.mdpi.com/ijms/ijms-25-07472/article_deploy/html/images/ijms-25-07472-g001-550.jpg
 
-- id: doi:10.3389/fgene.2024.1327984
+- id: pubmed:38957806
   image: https://www.frontiersin.org/files/Articles/1327984/fgene-15-1327984-HTML/image_m/fgene-15-1327984-g001.jpg
