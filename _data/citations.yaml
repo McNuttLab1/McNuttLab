@@ -1,5 +1,705 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39000579
+  title: The Degradation of Botulinum Neurotoxin Light Chains Using PROTACs.
+  authors:
+  - Yien Che Tsai
+  - Loren Kozar
+  - Zo P Mawi
+  - Konstantin Ichtchenko
+  - Charles B Shoemaker
+  - Patrick M McNutt
+  - Allan M Weissman
+  publisher: International journal of molecular sciences
+  date: '2024-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39000579
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38957806
+  title: A comparative analysis of RNA-Seq and NanoString technologies in deciphering
+    viral infection response in upper airway lung organoids.
+  authors:
+  - Mostafa Rezapour
+  - Stephen J Walker
+  - David A Ornelles
+  - Muhammad Khalid Khan Niazi
+  - Patrick M McNutt
+  - Anthony Atala
+  - Metin Nafi Gurcan
+  publisher: Frontiers in genetics
+  date: '2024-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38957806
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38655085
+  title: Analysis of gene expression dynamics and differential expression in viral
+    infections using generalized linear models and quasi-likelihood methods.
+  authors:
+  - Mostafa Rezapour
+  - Stephen J Walker
+  - David A Ornelles
+  - Patrick M McNutt
+  - Anthony Atala
+  - Metin Nafi Gurcan
+  publisher: Frontiers in microbiology
+  date: '2024-04-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38655085
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38216854
+  title: Insights into optimizing exosome therapies for acute skin wound healing and
+    other tissue repair.
+  authors:
+  - Tianjing Sun
+  - Mo Li
+  - Qi Liu
+  - Anyong Yu
+  - Kun Cheng
+  - Jianxing Ma
+  - Sean Murphy
+  - Patrick Michael McNutt
+  - Yuanyuan Zhang
+  publisher: Frontiers of medicine
+  date: '2024-01-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38216854
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37977816
+  title: Aminopyridines Restore Ventilation and Reverse Respiratory Acidosis at Late
+    Stages of Botulism in Mice.
+  authors:
+  - William T McClintic
+  - Zachary D Chandler
+  - Lalitha M Karchalla
+  - Celinia A Ondeck
+  - Sean W O'Brien
+  - Charity J Campbell
+  - Alan R Jacobson
+  - Patrick M McNutt
+  publisher: The Journal of pharmacology and experimental therapeutics
+  date: '2024-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37977816
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37650071
+  title: Neuromuscular recovery from botulism involves multiple forms of compensatory
+    plasticity.
+  authors:
+  - James B Machamer
+  - Edwin J Vazquez-Cintron
+  - Mallory J Stenslik
+  - Kathleen T Pagarigan
+  - Aaron B Bradford
+  - Celinia A Ondeck
+  - Patrick M McNutt
+  publisher: Frontiers in cellular neuroscience
+  date: '2023-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37650071
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37373093
+  title: Therapeutic Benefits of Stem Cells and Exosomes for Sulfur-Mustard-Induced
+    Tissue Damage.
+  authors:
+  - Carol Christine Bosholm
+  - Hainan Zhu
+  - Pengfei Yu
+  - Kun Cheng
+  - Sean Vincent Murphy
+  - Patrick Michael McNutt
+  - Yuanyuan Zhang
+  publisher: International journal of molecular sciences
+  date: '2023-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37373093
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36059944
+  title: 'Editorial: Venoms, animal and microbial toxins, volume II.'
+  authors:
+  - Zhijian Cao
+  - Delavar Shahbazzadeh
+  - "Herv\xE9 Kovacic"
+  - Patrick Michael McNutt
+  - Jing-Lin Wang
+  - Heike Wulff
+  - Yuri Utkin
+  - Jean-Marc Sabatier
+  publisher: Frontiers in pharmacology
+  date: '2022-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36059944
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36015295
+  title: Urine-Derived Stem Cells for Epithelial Tissues Reconstruction and Wound
+    Healing.
+  authors:
+  - Xiya Yin
+  - Qingfeng Li
+  - Patrick Michael McNutt
+  - Yuanyuan Zhang
+  publisher: Pharmaceutics
+  date: '2022-08-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36015295
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35803998
+  title: Intramuscular delivery of formulated RNA encoding six linked nanobodies is
+    highly protective for exposures to three Botulinum neurotoxin serotypes.
+  authors:
+  - Jean Mukherjee
+  - Celinia A Ondeck
+  - Jacqueline M Tremblay
+  - Jacob Archer
+  - Michelle Debatis
+  - Alexa Foss
+  - Junya Awata
+  - Jesse H Erasmus
+  - Patrick M McNutt
+  - Charles B Shoemaker
+  publisher: Scientific reports
+  date: '2022-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35803998
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35659174
+  title: Antidotal treatment of botulism in rats by continuous infusion with 3,4-diaminopyridine.
+  authors:
+  - James B Machamer
+  - Edwin J Vazquez-Cintron
+  - Sean W O'Brien
+  - Kyle E Kelly
+  - Amber C Altvater
+  - Kathleen T Pagarigan
+  - Parker B Dubee
+  - Celinia A Ondeck
+  - Patrick M McNutt
+  publisher: Molecular medicine (Cambridge, Mass.)
+  date: '2022-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35659174
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34122121
+  title: 'Editorial: Venoms, Animal and Microbial Toxins.'
+  authors:
+  - Zhijian Cao
+  - Jing-Lin Wang
+  - Patrick Michael McNutt
+  - Yuri N Utkin
+  - Delavar Shahbazzadeh
+  - Heike Wulff
+  - "Herv\xE9 Kovacic"
+  - Jean-Marc Sabatier
+  publisher: Frontiers in pharmacology
+  date: '2021-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34122121
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33497768
+  title: Dose-dependent emergence of acute and recurrent corneal lesions in sulfur
+    mustard-exposed rabbit eyes.
+  authors:
+  - Patrick M McNutt
+  - Kyle E M Kelly
+  - Amber C Altvater
+  - Marian R Nelson
+  - Megan E Lyman
+  - Sean O'Brien
+  - Matthieu T Conroy
+  - Celinia A Ondeck
+  - Skylar M L Bodt
+  - Sarah E Wolfe
+  - Susan M Schulz
+  - Denise M Kniffin
+  - Nicole B Hall
+  - Tracey A Hamilton
+  publisher: Toxicology letters
+  date: '2021-01-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33497768
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33408188
+  title: Neuronal delivery of antibodies has therapeutic effects in animal models
+    of botulism.
+  authors:
+  - Patrick M McNutt
+  - Edwin J Vazquez-Cintron
+  - Luis Tenezaca
+  - Celinia A Ondeck
+  - Kyle E Kelly
+  - Mark Mangkhalakhili
+  - James B Machamer
+  - Christopher A Angeles
+  - Elliot J Glotfelty
+  - Jaclyn Cika
+  - Cesar H Benjumea
+  - Justin T Whitfield
+  - Philip A Band
+  - Charles B Shoemaker
+  - Konstantin Ichtchenko
+  publisher: Science translational medicine
+  date: '2021-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33408188
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33218099
+  title: 'Special Delivery: Potential Mechanisms of Botulinum Neurotoxin Uptake and
+    Trafficking within Motor Nerve Terminals.'
+  authors:
+  - Brittany M Winner
+  - Skylar M L Bodt
+  - Patrick M McNutt
+  publisher: International journal of molecular sciences
+  date: '2020-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33218099
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33200044
+  title: The Need for Improved Therapeutic Approaches to Protect the Cornea Against
+    Chemotoxic Injuries.
+  authors:
+  - Patrick M McNutt
+  - Rajiv R Mohan
+  publisher: Translational vision science & technology
+  date: '2020-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33200044
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32987745
+  title: Camelid VHH Antibodies that Neutralize Botulinum Neurotoxin Serotype E Intoxication
+    or Protease Function.
+  authors:
+  - Jacqueline M Tremblay
+  - Edwin Vazquez-Cintron
+  - Kwok-Ho Lam
+  - Jean Mukherjee
+  - Daniela Bedenice
+  - Celinia A Ondeck
+  - Matthieu T Conroy
+  - Skylar M L Bodt
+  - Brittany M Winner
+  - Robert P Webb
+  - Konstantin Ichtchenko
+  - Rongsheng Jin
+  - Patrick M McNutt
+  - Charles B Shoemaker
+  publisher: Toxins
+  date: '2020-09-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32987745
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32691075
+  title: Functional basis for dose-dependent antagonism of rat and rabbit neuromuscular
+    transmission by the bis-pyridinium oxime MMB4.
+  authors:
+  - James B Machamer
+  - James P Apland
+  - Brittany M Winner
+  - Sarah E Wolfe
+  - Kathleen T Pagarigan
+  - Kevin M Bounader
+  - Shane A Kasten
+  - Michael Adler
+  - Patrick M McNutt
+  publisher: Archives of toxicology
+  date: '2020-07-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32691075
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32464237
+  title: Abstracts of Presentations from the 2020 Trans-Agency Scientific Meeting
+    on Developing Medical Countermeasures to Treat the Acute and Chronic Effects of
+    Ocular Chemical Toxicity, 25-26 February, Bethesda, Maryland.
+  authors:
+  - David T Yeung
+  - Houmam Araj
+  - Patrick M McNutt
+  publisher: Toxicology letters
+  date: '2020-05-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32464237
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32182542
+  title: Characterization and treatment of spontaneous recurrent seizures following
+    nerve agent-induced status epilepticus in mice.
+  authors:
+  - Hilary S McCarren
+  - Margaret R Eisen
+  - Dominique L Nguyen
+  - "Parker B Dub\xE9e"
+  - Cherish E Ardinger
+  - Emily N Dunn
+  - Kari M Haines
+  - Antonia N Santoro
+  - Paige M Bodner
+  - Celinia A Ondeck
+  - Cary L Honnold
+  - John H McDonough
+  - Phillip H Beske
+  - Patrick M McNutt
+  publisher: Epilepsy research
+  date: '2020-03-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32182542
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32101733
+  title: Structural Insights into Rational Design of Single-Domain Antibody-Based
+    Antitoxins against Botulinum Neurotoxins.
+  authors:
+  - Kwok-Ho Lam
+  - Jacqueline M Tremblay
+  - Edwin Vazquez-Cintron
+  - Kay Perry
+  - Celinia Ondeck
+  - Robert P Webb
+  - Patrick M McNutt
+  - Charles B Shoemaker
+  - Rongsheng Jin
+  publisher: Cell reports
+  date: '2020-02-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32101733
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32044824
+  title: Corneal Endothelial Cell Toxicity Determines Long-Term Outcome After Ocular
+    Exposure to Sulfur Mustard Vapor.
+  authors:
+  - Patrick M McNutt
+  - Dominique L Nguyen
+  - Marian R Nelson
+  - Megan E Lyman
+  - Margaret M Eisen
+  - Celinia A Ondeck
+  - Sarah E Wolfe
+  - Kathleen T Pagarigan
+  - Mark C Mangkhalakhili
+  - Denise M Kniffin
+  - Tracey A Hamilton
+  publisher: Cornea
+  date: '2020-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32044824
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31132436
+  title: Retrograde activation of CB1R by muscarinic receptors protects against central
+    organophosphorus toxicity.
+  authors:
+  - Katie M Hoffman
+  - Margaret R Eisen
+  - Jessica K Chandler
+  - Marian R Nelson
+  - Erik A Johnson
+  - Patrick M McNutt
+  publisher: Neuropharmacology
+  date: '2019-05-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31132436
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29766717
+  title: Photocatalytic Oxidation of Sulfur Mustard and Its Simulant on BODIPY-Incorporated
+    Polymer Coatings and Fabrics.
+  authors:
+  - Hui Wang
+  - George W Wagner
+  - Annie Xi Lu
+  - Dominique L Nguyen
+  - James H Buchanan
+  - Patrick M McNutt
+  - Christopher J Karwacki
+  publisher: ACS applied materials & interfaces
+  date: '2018-05-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29766717
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29366638
+  title: 3,4-diaminopyridine reverses paralysis in botulinum neurotoxin-intoxicated
+    diaphragms through two functionally distinct mechanisms.
+  authors:
+  - Aaron B Bradford
+  - James B Machamer
+  - Trisha M Russo
+  - Patrick M McNutt
+  publisher: Toxicology and applied pharmacology
+  date: '2018-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29366638
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29158500
+  title: Use-dependent potentiation of voltage-gated calcium channels rescues neurotransmission
+    in nerve terminals intoxicated by botulinum neurotoxin serotype A.
+  authors:
+  - Phillip H Beske
+  - Katie M Hoffman
+  - James B Machamer
+  - Margaret R Eisen
+  - Patrick M McNutt
+  publisher: Scientific reports
+  date: '2017-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29158500
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29054436
+  title: "In\_vitro and ex\_vivo screening of candidate therapeutics to restore neurotransmission\
+    \ in nerve terminals intoxicated by botulinum neurotoxin serotype A1."
+  authors:
+  - Phillip H Beske
+  - Aaron B Bradford
+  - Katie M Hoffman
+  - Sydney J Mason
+  - Patrick M McNutt
+  publisher: 'Toxicon : official journal of the International Society on Toxinology'
+  date: '2017-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29054436
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28220863
+  title: Engineering Botulinum Neurotoxin C1 as a Molecular Vehicle for Intra-Neuronal
+    Drug Delivery.
+  authors:
+  - Edwin J Vazquez-Cintron
+  - Phillip H Beske
+  - Luis Tenezaca
+  - Bao Q Tran
+  - Jonathan M Oyler
+  - Elliot J Glotfelty
+  - Christopher A Angeles
+  - Aurelia Syngkon
+  - Jean Mukherjee
+  - Suzanne R Kalb
+  - Philip A Band
+  - Patrick M McNutt
+  - Charles B Shoemaker
+  - Konstantin Ichtchenko
+  publisher: Scientific reports
+  date: '2017-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28220863
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27310673
+  title: Contributions of tissue-specific pathologies to corneal injuries following
+    exposure to SM vapor.
+  authors:
+  - Patrick M McNutt
+  - Kaylie M Tuznik
+  - Elliot J Glotfelty
+  - Marian R Nelson
+  - Megan E Lyman
+  - Tracey A Hamilton
+  publisher: Annals of the New York Academy of Sciences
+  date: '2016-06-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27310673
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26615023
+  title: Botulinum and Tetanus Neurotoxin-Induced Blockade of Synaptic Transmission
+    in Networked Cultures of Human and Rodent Neurons.
+  authors:
+  - Phillip H Beske
+  - Aaron B Bradford
+  - Justin O Grynovicki
+  - Elliot J Glotfelty
+  - Katie M Hoffman
+  - Kyle S Hubbard
+  - Kaylie M Tuznik
+  - Patrick M McNutt
+  publisher: 'Toxicological sciences : an official journal of the Society of Toxicology'
+  date: '2015-11-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26615023
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26240679
+  title: 'Importance of being Nernst: Synaptic activity and functional relevance in
+    stem cell-derived neurons.'
+  authors:
+  - Aaron B Bradford
+  - Patrick M McNutt
+  publisher: World journal of stem cells
+  date: '2015-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26240679
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25954159
+  title: Accelerated intoxication of GABAergic synapses by botulinum neurotoxin A
+    disinhibits stem cell-derived neuron networks prior to network silencing.
+  authors:
+  - Phillip H Beske
+  - Stephen M Scheeler
+  - Michael Adler
+  - Patrick M McNutt
+  publisher: Frontiers in cellular neuroscience
+  date: '2015-04-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25954159
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24358889
+  title: Longitudinal RNA sequencing of the deep transcriptome during neurogenesis
+    of cortical glutamatergic neurons from murine ESCs.
+  authors:
+  - Kyle S Hubbard
+  - Ian M Gut
+  - Megan E Lyman
+  - Patrick M McNutt
+  publisher: F1000Research
+  date: '2013-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24358889
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24162749
+  title: 'Cultivation and characterization of limbal epithelial stem cells on contact
+    lenses with a feeder layer: toward the treatment of limbal stem cell deficiency.'
+  authors:
+  - Ariel Gore
+  - Vered Horwitz
+  - Hila Gutman
+  - Liat Tveria
+  - Liat Cohen
+  - Orit Cohen-Jacob
+  - Joseph Turetz
+  - Patrick Michael McNutt
+  - Shlomit Dachir
+  - Tamar Kadar
+  publisher: Cornea
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24162749
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23691214
+  title: Novel application of stem cell-derived neurons to evaluate the time- and
+    dose-dependent progression of excitotoxic injury.
+  authors:
+  - Ian M Gut
+  - Phillip H Beske
+  - Kyle S Hubbard
+  - Megan E Lyman
+  - Tracey A Hamilton
+  - Patrick M McNutt
+  publisher: PloS one
+  date: '2013-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23691214
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23597229
+  title: Morphological and functional differentiation in BE(2)-M17 human neuroblastoma
+    cells by treatment with Trans-retinoic acid.
+  authors:
+  - Devon Andres
+  - Brian M Keyser
+  - John Petrali
+  - Betty Benton
+  - Kyle S Hubbard
+  - Patrick M McNutt
+  - Radharaman Ray
+  publisher: BMC neuroscience
+  date: '2013-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23597229
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23095170
+  title: High yield derivation of enriched glutamatergic neurons from suspension-cultured
+    mouse ESCs for neurotoxicology research.
+  authors:
+  - Kyle S Hubbard
+  - Ian M Gut
+  - Megan E Lyman
+  - Kaylie M Tuznik
+  - Mariano T Mesngon
+  - Patrick M McNutt
+  publisher: BMC neuroscience
+  date: '2012-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23095170
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22892216
+  title: Compatibility of SYTO 13 and Hoechst 33342 for longitudinal imaging of neuron
+    viability and cell death.
+  authors:
+  - Kyle S Hubbard
+  - Ian M Gut
+  - Stephen M Scheeler
+  - Megan E Lyman
+  - Patrick M McNutt
+  publisher: BMC research notes
+  date: '2012-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22892216
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:16971202
+  title: Intestinal fatty acid binding protein (I-FABP) for the detection of strangulated
+    mechanical small bowel obstruction.
+  authors:
+  - Daniel R Cronk
+  - Troy P Houseworth
+  - Daniel G Cuadrado
+  - Garth S Herbert
+  - Patrick M McNutt
+  - Kenneth S Azarow
+  publisher: Current surgery
+  date: '2006-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16971202
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:16912867
+  title: 'Characterization of the 16S-23S internal transcribed spacer among 34 higher
+    plants: suitability for interspecific plastid transformation.'
+  authors:
+  - Patrick M McNutt
+  - Mary J Dehart
+  - Louis A Matej
+  publisher: Plant cell reports
+  date: '2006-08-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16912867
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:10508659
+  title: 'Cadherins and their connections: adhesion junctions have broader functions.'
+  authors:
+  - M S Steinberg
+  - P M McNutt
+  publisher: Current opinion in cell biology
+  date: '1999-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10508659
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.3390/ijms25137472
   title: The Degradation of Botulinum Neurotoxin Light Chains Using PROTACs
   authors:
