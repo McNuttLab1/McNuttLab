@@ -2,16 +2,5 @@
   type: paper
   description: A study on the effects of aminopyridines, particularly 3,4-diaminopyridine (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements in respiratory function and acid-base balance, suggesting potential as a therapeutic option and laying groundwork for further development of aminopyridine derivatives.
   date: 2024-01-17
-  image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0
- # buttons:
-   # - type: manubot
-    #  link: https://greenelab.github.io/meta-review/
-    #- type: source
-    #  text: Manuscript Source
-   #   link: https://github.com/greenelab/meta-review
-   #- type: website
-   #   link: http://manubot.org/
- # tags:
-  #  - open science
-  #  - collaboration
-  #repo: greenelab/meta-review
+  image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0/
+- id: pubmed:29424689
