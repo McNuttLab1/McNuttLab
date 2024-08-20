@@ -26,11 +26,11 @@ Patrick McNutt is an associate professor at the Wake Forest Institute for Regene
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1124/jpet.123.001773" style="rich" %}
+{% include citation.html lookup="pubmed:37977816" style="rich" %}
 
-{% include citation.html lookup="doi:10.1186/s10020-022-00487-4" %}
+{% include citation.html lookup="pubmed:35659174" style="rich" %}
 
-{% include citation.html lookup="doi:10.1016/j.toxlet.2021.01.016" style="rich" %}
+{% include citation.html lookup="pubmed:33497768" style="rich" %}
 
 {% include section.html %}
 
