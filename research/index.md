@@ -26,7 +26,7 @@ Patrick McNutt is an associate professor at the Wake Forest Institute for Regene
 
 ## Highlighted
 
-{% include citation.html lookup="Cadherins and their connections: adhesion junctions have broader functions" style="rich" %}
+{% include citation.html lookup="doi:10.1124/jpet.123.001773" style="rich" %}
 
 {% include section.html %}
 
