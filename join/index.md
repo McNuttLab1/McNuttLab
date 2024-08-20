@@ -6,7 +6,7 @@ title: Join the Team
 
 ### Wake Forest Institute for Regenerative  Medicine
 
-[The Wake Forest Institute for Regenerative Medicine (WFIRM)](https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/) is recognized as an international leader in translating scientific discovery into clinical therapies. Physicians and scientists at WFIRM were the first in the world to engineer laboratory-grown organs that were successfully implanted into humans. Today, this interdisciplinary team that numbers about 400 is working to engineer more than 40 different replacement tissues and organs, and to develop healing cell therapies – all with the goal to cure, rather than merely treat, disease. 
+<p><a href="https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/"> The Wake Forest Institute for Regenerative Medicine (WFIRM) </a></p> is recognized as an international leader in translating scientific discovery into clinical therapies. Physicians and scientists at WFIRM were the first in the world to engineer laboratory-grown organs that were successfully implanted into humans. Today, this interdisciplinary team that numbers about 400 is working to engineer more than 40 different replacement tissues and organs, and to develop healing cell therapies – all with the goal to cure, rather than merely treat, disease. 
 
 ### Postdoctoral Researchers
 
