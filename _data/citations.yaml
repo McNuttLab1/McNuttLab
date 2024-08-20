@@ -770,3 +770,24 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378427421000254-gr2.jpg
   plugin: sources.py
   file: sources.yaml
+- PMCID: PMC11242356
+  image: https://www.mdpi.com/ijms/ijms-25-07472/article_deploy/html/images/ijms-25-07472-g001-550.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fgene.2024.1327984
+  title: A comparative analysis of RNA-Seq and NanoString technologies in deciphering
+    viral infection response in upper airway lung organoids
+  authors:
+  - Mostafa Rezapour
+  - Stephen J. Walker
+  - David A. Ornelles
+  - Muhammad Khalid Khan Niazi
+  - Patrick M. McNutt
+  - Anthony Atala
+  - Metin Nafi Gurcan
+  publisher: Frontiers in Genetics
+  date: '2024-06-18'
+  link: https://doi.org/gt7gjn
+  image: https://www.frontiersin.org/files/Articles/1327984/fgene-15-1327984-HTML/image_m/fgene-15-1327984-g001.jpg
+  plugin: sources.py
+  file: sources.yaml
