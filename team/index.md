@@ -20,7 +20,7 @@ Our lab consists of a dynamic and collaborative group of researchers who are dee
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We collaborate with an array of exceptional teams from across the globe and continually seek out fresh and unique perspectives. Our goal is to advance the frontiers of data science and to mentor the next generation of data scientists.
+We collaborate with an array of exceptional teams from across the globe and continually seek out fresh and unique perspectives. Our goal is to advance the frontiers of science and to mentor the next generation of scientists.
 
 {%
   include button.html
