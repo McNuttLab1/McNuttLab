@@ -4,7 +4,7 @@
   
 - id: pubmed:35659174
   description: The molecule 3,4-DAP is the first small molecule to reverse systemic paralysis and promote survival in animal models of botulism, thereby meeting a critical treatment need that is not addressed by post-exposure prophylaxis with conventional antitoxin. 
-  image: ..\images\Posts\10020_2022_487_Fig2_HTML.jpg
+  image: images/Posts/10020_2022_487_Fig2_HTML.jpg
 
 - id:  pubmed:33497768
   description: These results provide novel insight into long-term corneal pathophysiological responses to acute toxicity and identify exposure conditions suitable for therapeutic testing.
