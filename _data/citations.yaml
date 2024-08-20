@@ -49,8 +49,9 @@
   date: '2024-04-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38655085
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/1342328/fmicb-15-1342328-HTML-r1/image_m/fmicb-15-1342328-g001.jpg
 - id: pubmed:38216854
   title: Insights into optimizing exosome therapies for acute skin wound healing and
     other tissue repair.
@@ -68,8 +69,9 @@
   date: '2024-01-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38216854
   term: McNutt PM[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Exosome_with_hsp70.png/375px-Exosome_with_hsp70.png
 - id: pubmed:37977816
   title: Aminopyridines Restore Ventilation and Reverse Respiratory Acidosis at Late
     Stages of Botulism in Mice.
