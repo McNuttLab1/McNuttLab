@@ -10,12 +10,12 @@ title: Join the Team
 
 ### Postdoctoral Researchers
 
-We are excited to announce that we are currently welcoming applications for new postdoctoral fellows to join our team. We invite qualified candidates to submit their resumes and cover letters for consideration. Please send your application materials directly to [Patrick McNutt](https://profiles.wakehealth.edu/display/person/pmcnutt/). We look forward to reviewing your application and exploring the potential for collaboration
+We are excited to announce that we are currently welcoming applications for new postdoctoral fellows to join our team. We invite qualified candidates to submit their resumes and cover letters for consideration. Please send your application materials directly to <p><a href="https://profiles.wakehealth.edu/display/person/pmcnutt/"> Patrick McNutt </a></p>. We look forward to reviewing your application and exploring the potential for collaboration
 
 ### Graduate Students
 
-We also welcome PhD rotators through the [Wake Forest School of Medicine Biomedical Graduate Programs](https://school.wakehealth.edu/education-and-training/graduate-programs/). If you are a PhD student interested in rotating through our lab, we encourage you to apply through the program to explore opportunities for research and collaboration. This is a great way to gain hands-on experience and contribute to our ongoing projects while benefiting from the resources and expertise available at Wake Forest.
+We also welcome PhD rotators through the <p><a href="https://school.wakehealth.edu/education-and-training/graduate-programs/"> Wake Forest School of Medicine Biomedical Graduate Programs </a></p>. If you are a PhD student interested in rotating through our lab, we encourage you to apply through the program to explore opportunities for research and collaboration. This is a great way to gain hands-on experience and contribute to our ongoing projects while benefiting from the resources and expertise available at Wake Forest.
 
 ### Undergraduate Students
 
-Undergraduate students seeking to gain valuable research experience are encouraged to explore opportunities in our lab. We welcome enthusiastic and motivated students who are eager to contribute to ongoing projects and develop their skills in a dynamic research environment. If you are interested in joining our team, please reach out to [Patrick McNutt]("https://profiles.wakehealth.edu/display/person/pmcnutt") for more information on how to get involved.
+Undergraduate students seeking to gain valuable research experience are encouraged to explore opportunities in our lab. We welcome enthusiastic and motivated students who are eager to contribute to ongoing projects and develop their skills in a dynamic research environment. If you are interested in joining our team, please reach out to <p><a href="https://profiles.wakehealth.edu/display/person/pmcnutt/"> Patrick McNutt </a></p> for more information on how to get involved.
