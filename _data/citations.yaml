@@ -739,7 +739,7 @@
     (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements
     in respiratory function and acid-base balance, suggesting potential as a therapeutic
     option and laying groundwork for further development of aminopyridine derivatives.
-  image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0
+  image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0/
 - id: doi:10.1124/jpet.123.001686
   title: 'Treatment of Sulfur Mustard Corneal Injury by Augmenting the DNA Damage
     Response (DDR): A Novel Approach'
@@ -1819,3 +1819,18 @@
   orcid: 0000-0002-5703-4565
   plugin: orcid.py
   file: orcid.yaml
+- id: pubmed:29424689
+  title: Sci-Hub provides access to nearly all scholarly literature.
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29424689
+  plugin: sources.py
+  file: sources.yaml
