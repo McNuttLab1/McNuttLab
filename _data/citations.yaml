@@ -713,28 +713,60 @@
   - Alan R. Jacobson
   - Patrick M. McNutt
   publisher: Journal of Pharmacology and Experimental Therapeutics
-  date: '2024-01-17'
+  date: '2023-11-17'
   link: https://doi.org/gtxvz7
-  type: paper
   description: A study on the effects of aminopyridines, particularly 3,4-diaminopyridine
     (3,4-DAP), on ventilation and respiration in botulism reveals significant improvements
     in respiratory function and acid-base balance, suggesting potential as a therapeutic
     option and laying groundwork for further development of aminopyridine derivatives.
-  image: https://pubmed.ncbi.nlm.nih.gov/37977816/#&gid=article-figures&pid=fig-1-uid-0/
+  image: https://jpet.aspetjournals.org/content/jpet/388/2/637/F1.large.jpg
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:29424689
-  title: Sci-Hub provides access to nearly all scholarly literature.
+- id: doi:10.1186/s10020-022-00487-4
+  title: Antidotal treatment of botulism in rats by continuous infusion with 3,4-diaminopyridine
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29424689
+  - James B. Machamer
+  - Edwin J. Vazquez-Cintron
+  - "Sean W. O\u2019Brien"
+  - Kyle E. Kelly
+  - Amber C. Altvater
+  - Kathleen T. Pagarigan
+  - Parker B. Dubee
+  - Celinia A. Ondeck
+  - Patrick M. McNutt
+  publisher: Molecular Medicine
+  date: '2022-06-03'
+  link: https://doi.org/gqjwhp
+  description: 3,4-DAP is the first small molecule to reverse systemic paralysis and
+    promote survival in animal models of botulism, thereby meeting a critical treatment
+    need that is not addressed by post-exposure prophylaxis with conventional antitoxin.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs10020-022-00487-4/MediaObjects/10020_2022_487_Fig2_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.toxlet.2021.01.016
+  title: Dose-dependent emergence of acute and recurrent corneal lesions in sulfur
+    mustard-exposed rabbit eyes
+  authors:
+  - Patrick M. McNutt
+  - Kyle E.M. Kelly
+  - Amber C. Altvater
+  - Marian R. Nelson
+  - Megan E. Lyman
+  - "Sean O\u2019Brien"
+  - Matthieu T. Conroy
+  - Celinia A. Ondeck
+  - Skylar M.L. Bodt
+  - Sarah E. Wolfe
+  - Susan M. Schulz
+  - Denise M. Kniffin
+  - Nicole B. Hall
+  - Tracey A. Hamilton
+  publisher: Toxicology Letters
+  date: '2021-05-01'
+  link: https://doi.org/gtxv2d
+  description: These results provide novel insight into long-term corneal pathophysiological
+    responses to acute toxicity and identify exposure conditions suitable for therapeutic
+    testing.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378427421000254-gr2.jpg
   plugin: sources.py
   file: sources.yaml
