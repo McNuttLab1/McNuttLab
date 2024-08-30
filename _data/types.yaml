@@ -22,7 +22,7 @@ technician:
   icon: fa-solid fa-cog
   description: Technician
 
-senior scientist: 
+scientist: 
   icon: fa-solid fa-bar-chart
   description: senior scientist
 
