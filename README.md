@@ -1,5 +1,5 @@
 
-# CalebAguayoDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# McNuttLab
 
 Visit **[mcnuttlab.org](http://mcnuttlab.org)** 🚀
 
